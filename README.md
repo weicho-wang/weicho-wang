@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Physicist specializing in Medical Imaging Algorithm(calibration&reconstruction algorithm for CT/PET/SPECT), medical imaging postprocessing, deep learning, large language models and open-source development. 
+I'm a Physicist specializing in Medical Imaging Algorithm (calibration & reconstruction algorithm for CT/PET/SPECT), medical imaging postprocessing, deep learning, large language models and open-source development. 
 
 My work focuses on CT/PET/SPECT medical physics&algorithm, building new imaging algorithm features, and sharing knowledge through and open-source contributions.  
 
 #### Links  
 
 - Blog: [weicho-wang](https://weicho-wang.github.io/) 
-- Twitter/X: [WeiCho](https://x.com/WeiChoWang)
+- Twitter/X: [weicho-wang](https://x.com/WeiChoWang)
 - LinkedIn: [in/weicho-wang](https://www.linkedin.com/in/%E5%BE%AE%E7%90%A2-%E7%8E%8B-a016a234b/)
